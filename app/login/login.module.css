@@ -1,0 +1,32 @@
+.loginTitle{
+    color:green;
+    font-size:30px;
+}
+.loginInput{
+    width: 50%;
+    height: 40px;
+    border-radius: 10px;
+}
+.signUpSpan{
+    color:green;
+    font-weight: bold;
+}
+
+.loginCardContainer{
+    display:flex;
+    justify-content:center; 
+    align-items:center; 
+    padding:20px;
+    height:90vh;
+}
+
+.loginContentWrapper{
+    border-radius:20px;
+    width:50%;
+    height:70vh; 
+    background-color:grey; 
+    display:flex;
+    flex-direction:column;
+    align-items:center; 
+    gap:10vh;
+}
